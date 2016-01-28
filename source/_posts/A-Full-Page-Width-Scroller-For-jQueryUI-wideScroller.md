@@ -30,7 +30,7 @@ To use wideScroller you need the following:
 <a href="https://github.com/bensternthal/jquery.ui.dpui.wideScroller">Grab the source & examples from github.</a>
 
 ## Vew Demo
-<a href="http://demo.devpatch.com/jquery.ui.dpui.wideScroller/examples/basic.html">This demo shows the basic functionality</a> - take a look before reading further as it will help explain things. Note how the "active" image is aligned with the "locator" div and how things work correctly if you resize the page.
+<a href="http://bensternthal.github.io/jquery.ui.dpui.wideScroller">This demo shows the basic functionality</a> - take a look before reading further as it will help explain things. Note how the "active" image is aligned with the "locator" div and how things work correctly if you resize the page.
 
 
 
