@@ -2,6 +2,9 @@
 title: Setting up PhpStorm 2 with XDebug and MAMP
 date: 2011-02-23
 tags:
+  - PHP
+categories:
+  - Development
 disqusIdentifier: http://www.devpatch.com/2011/02/setting-up-phpstorm-2-with-xdebug-and-mamp
 ---
 

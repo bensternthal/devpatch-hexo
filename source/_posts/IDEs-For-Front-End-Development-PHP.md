@@ -2,6 +2,10 @@
 title: 'IDEs For Front End Development & PHP'
 date: 2010-10-19
 tags:
+  - PHP
+  - JavaScript
+categories:
+  - Development
 disqusIdentifier: http://www.devpatch.com/2010/10/ides-for-front-end-development-php
 ---
 

@@ -2,6 +2,10 @@
 title: Deploying Zend Framework With Apache ANT
 date: 2010-03-03
 tags:
+  - PHP
+  - Zend
+categories:
+  - Development
 disqusIdentifier: http://www.devpatch.com/2010/03/deploying-zend-framework-with-apache-ant
 
 ---

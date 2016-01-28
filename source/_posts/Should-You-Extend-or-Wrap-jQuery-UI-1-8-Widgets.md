@@ -2,6 +2,10 @@
 title: Should You Extend or Wrap jQuery UI 1.8 Widgets
 date: 2010-05-21
 tags:
+  - JQuery
+categories:
+  - Development
+  - JavaScript
 disqusIdentifier: http://www.devpatch.com/2010/05/should-you-extend-or-wrap-jquery-ui-1-8-widgets
 ---
 

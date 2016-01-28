@@ -2,6 +2,11 @@
 title: Wordpress + Docker + Github
 date: 2015-07-13
 tags:
+  - Wordpress
+  - Docker
+  - Github
+categories:
+  - Development
 ---
 
 Working with Wordpress and Git for me has been a challenge. Ideally I want to keep just my plugins and theme in version control and keep all the Wordpress files (that I would never edit) seperate. You can accomplish this manually but how would this work if you are using Docker for local development?

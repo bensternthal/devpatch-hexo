@@ -2,6 +2,10 @@
 title: 'Debugging Front End Code, New Tools'
 date: 2010-03-01
 tags:
+  - PHP
+  - JavaScript
+categories:
+  - Development
 ---
 
 Front End debugging tools have come a long way. Below are some of the tools I am using on a daily basis to debug and fine-tune my front end code.

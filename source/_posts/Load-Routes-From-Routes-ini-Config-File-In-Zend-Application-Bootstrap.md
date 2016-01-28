@@ -2,6 +2,10 @@
 title: Load Routes From Routes.ini Config File In Zend Application Bootstrap
 date: 2010-02-10
 tags:
+  - PHP
+  - Zend
+categories:
+  - Development
 disqusIdentifier: http://www.devpatch.com/2010/02/load-routes-from-routes-ini-config-file-in-zend-application-bootstrap
 
 ---

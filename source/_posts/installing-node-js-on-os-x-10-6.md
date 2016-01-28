@@ -2,6 +2,10 @@
 title: Installing Node.Js On OS X 10.6
 date: 2010-02-08
 tags:
+  - Node
+categories:
+  - Development
+  - JavaScript
 disqusIdentifier: http://www.devpatch.com/2010/02/installing-node-js-on-os-x-10-6
 ---
 

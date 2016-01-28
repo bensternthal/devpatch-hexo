@@ -2,6 +2,8 @@
 title: Symptoms That Something Is Seriously Wrong at a Startup
 date: 2011-08-22
 tags:
+categories:
+  - Startups
 ---
 
 For most of my professional career, from 1999-2007 I worked at large corporations (Conde Nast, John Wiley & Sons) and had

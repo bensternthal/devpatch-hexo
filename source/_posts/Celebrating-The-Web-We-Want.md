@@ -2,6 +2,9 @@
 title: Celebrating The Web We Want
 date: 2014-04-28
 tags:
+  - Mozilla
+categories:
+  - Day Job
 ---
 
 {% asset_img promo-1.png %}

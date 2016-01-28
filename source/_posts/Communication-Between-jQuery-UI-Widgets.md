@@ -2,6 +2,10 @@
 title: Communication Between jQuery UI Widgets
 date: 2010-03-22
 tags:
+  - JQuery
+categories:
+  - Development
+  - JavaScript
 disqusIdentifier: http://www.devpatch.com/2010/03/communication-between-jquery-ui-widgets
 ---
 

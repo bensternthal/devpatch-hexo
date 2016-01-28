@@ -2,6 +2,9 @@
 title: Painless EOT Font Generation With FontSquirrel
 date: 2010-02-03
 tags:
+  - CSS
+categories:
+  - Development
 ---
 
 

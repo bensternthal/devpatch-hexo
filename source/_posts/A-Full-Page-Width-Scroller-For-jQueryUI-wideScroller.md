@@ -2,6 +2,10 @@
 title: A Full Page Width Scroller For jQueryUI - wideScroller
 date: 2010-11-22
 tags:
+  - JQuery
+categories:
+  - Development
+  - JavaScript
 disqusIdentifier: http://www.devpatch.com/2010/11/widescroller
 ---
 

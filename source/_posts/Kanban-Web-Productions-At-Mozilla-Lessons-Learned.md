@@ -2,6 +2,11 @@
 title: 'Kanban & Web Productions At Mozilla - Lessons Learned'
 date: 2013-06-28
 tags:
+  - Mozilla
+  - Kanban
+  - Github
+categories:
+  - Project Management
 disqusIdentifier: http://www.devpatch.com/articles/2013-06-28-kanban-webprod
 ---
 

@@ -2,6 +2,10 @@
 title: Managing CSS and JavaScript files within a Zend Framework App - A Different Approach - View Plugin
 date: 2010-02-05
 tags:
+  - Zend
+  - PHP
+categories:
+  - Development
 disqusIdentifier: http://www.devpatch.com/2010/02/view-plugin
 ---
 
