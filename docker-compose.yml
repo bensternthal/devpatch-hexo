@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  nginx-devpatch:
+    image: nginx
+    container_name: nginx-devpatch
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ./public:/usr/share/nginx/html/
