@@ -4,8 +4,17 @@ services:
   nginx-devpatch:
     image: nginx
     container_name: nginx-devpatch
-    ports:
-      - "80:80"
+   # ports:
+   #  - "80:80"
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf
       - ./public:/usr/share/nginx/html/
+    environment:
+      - VIRTUAL_HOST=${VIRTUAL_HOST}
+      - VIRTUAL_PORT=${VIRTUAL_PORT}
+      - LETSENCRYPT_HOST=${LETSENCRYPT_HOST}
+      - LETSENCRYPT_EMAIL=${LETSENCRYPT_EMAIL}
+    expose:
+      - "80"
+    network_mode: "bridge"
+    restart: always
